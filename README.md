@@ -52,6 +52,3 @@ The dashboard provides a high-level view of the placement process.
 2.  Import `database.sql` into phpMyAdmin (create DB `internship_tracker` first if needed) OR visit `http://localhost/internship_tracker/setup_db.php`.
 3.  Open the application at `http://localhost/internship_tracker/`.
 4.  For detailed verification of database structure and rows, visit `http://localhost/internship_tracker/documentation.php`.
-
-## 5. Documentation Screenshots
-_(Users can insert screenshots of `documentation.php` here)_
